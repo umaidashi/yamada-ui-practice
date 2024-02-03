@@ -11,9 +11,10 @@
     "check": "bun run format; bun run lint"
   },
   "dependencies": {
+    "@yamada-ui/react": "^1.2.3",
+    "next": "14.1.0",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.1.0"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "@biomejs/biome": "1.5.3",
